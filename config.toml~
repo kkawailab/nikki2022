@@ -1,5 +1,4 @@
 baseURL = 'http://kklab.mobi/nikki2022/'
-languageCode = 'ja-JP'
+languageCode = 'ja-jp'
 title = 'My New Nikki Site 2022'
 theme = "ananke"
-SectionPagesMenu = "main"
