@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'http://kklab.mobi/nikki2022/'
+languageCode = 'ja-jp'
+title = 'My New Nikki Site 2022'
 theme = "ananke"
