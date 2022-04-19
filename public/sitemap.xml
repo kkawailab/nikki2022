@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/my-first-post/</loc>
+    <loc>http://kklab.mobi/nikki2022/posts/my-first-post/</loc>
     <lastmod>2022-04-20T05:27:49+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>http://kklab.mobi/nikki2022/</loc>
     <lastmod>2022-04-20T05:27:49+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>http://kklab.mobi/nikki2022/posts/</loc>
     <lastmod>2022-04-20T05:27:49+09:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://kklab.mobi/nikki2022/categories/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://kklab.mobi/nikki2022/tags/</loc>
   </url>
 </urlset>
